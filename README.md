@@ -1,3 +1,20 @@
+# Promptopedia
+
+I wanted to learn NextJS and what better way is there to learn than learning by doing!
+
+So, I followed a tutorial by the one and only, Javascript Mastery wherein Adrian covered everything from NextJS basics to OAuth for login and even MongoDB.
+All of these were new concepts for me so almost all of the code is as-is from the video.
+That being said, I have learnt a lot through this project. Since I have a background in Flask, I know some of the basics of a backend, creating endpoints and so on. Thus, it was really amazing for me to see how this app came together using NextJS and how there are so many parallels between various backend frameworks.
+
+I look forward to doing more projects in NextJS, MongoDB and TailwindCSS.
+
+## Screenshots
+
+![image](https://github.com/Kabeer2004/promptopedia/assets/59280736/367daeeb-98fa-452d-8b8e-395bb6bad005)
+
+![image](https://github.com/Kabeer2004/promptopedia/assets/59280736/05a6e082-d73a-4615-a9f9-573ef9795aad)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
